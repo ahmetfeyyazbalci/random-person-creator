@@ -8,7 +8,7 @@ You can visit website from [here](https://randompersoncreator.netlify.app/)
 ___
 **Clone the project**
 ```
- https://github.com/ahmetfeyyazbalci/random-person-creator
+ https://github.com/feyyazbalci/random-person-creator
 ```
 
 
